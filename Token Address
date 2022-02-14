@@ -1,59 +1,9 @@
-TimingSwap Mainnet address:
-Factory: 0xdd2e27179876e2477622447d51e1faf536c2ea1d
-Router: 0x95fd813dfe7e97301fba1736232ee4d6a45f10d2
-Timing Token: 0xb63757092d2c538bfe974f8404241aa0be86b67c
-Timingguarder: 0xe3a72d4def291b300f46a46215282405181a2301
+TimingSwap OEC address:
+Factory: 0x048bBC25F18f15DB7F6FC2f3ff47064aa93a0e3f
+Router: 0x5531261D9224D7ec4FD36d53B355e905B5513D73
+Timing Token: 0x01df5Bb0BD53dcD516136af78a0BaF76B99a01a9
+Timingguarder: 0x1Fe085E6A438Cc363516De162e8913Fd0072C919
 Timing Token Transfer Ownership Hash:
-0x0c40894d1848b3f346b636fac0b12557d7674d94d768c2a1e6027fffaed180ae
+0x8da039f694fc537ef235f6e87534393b5aa74a55db23943608eeefd0a600023c
 Factory Set Feeto Hash:
-0x6c2372b222a4fb5769af0e4bf4059f1d8fcc7db6a89f61ed0a69f7577fa8b77c
-START Blocknumber:
-Arg [0] : _factory (address): 0xdd2e27179876e2477622447d51e1faf536c2ea1d
-Arg [1] : _WETH (address): 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
-Arg [2] : _TIMING (address): 0xb63757092d2c538bfe974f8404241aa0be86b67c
-Arg [3] : _startBlock (uint256): 13351764
-Arg [4] : _lastblock (uint256): 13351764
-Arg [5] : _TIMINGPerBlock (uint256): 9186765070277000000
-Function getback:
-https://etherscan.io/address/0xe3a72d4def291b300f46a46215282405181a2301#writeContract
-
-
-
-TimingSwap BSC address:
-Factory: 0xdD2E27179876E2477622447d51E1faf536C2Ea1D
-Router: 0x29aA51FC9D1C80D317556cf406cD00CF52a81563
-Timing Token: 0xE3a72D4DEF291B300f46A46215282405181a2301
-Timingguarder: 0x95Fd813DFE7E97301fba1736232Ee4D6A45f10d2
-Timing Token Transfer Ownership Hash:
-0xed5773b18f1df610295d043b33caf078ddeda1bb31c2f2dc389cee1195c1b5fd
-Factory Set Feeto Hash:
-0x2fbe23820fd1bde5df2f375fd542cc3a12d3a9b4d09852bdcb6127419d42f0a7
-START Blocknumber:
-Arg [0] : _factory (address): 0xdd2e27179876e2477622447d51e1faf536c2ea1d
-Arg [1] : _WETH (address): 0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
-Arg [2] : _TIMING (address): 0xe3a72d4def291b300f46a46215282405181a2301
-Arg [3] : _startBlock (uint256): 11482333
-Arg [4] : _lastblock (uint256): 11482333
-Arg [5] : _TIMINGPerBlock (uint256): 2025462962962000000
-Function getback:
-https://bscscan.com/address/0x95Fd813DFE7E97301fba1736232Ee4D6A45f10d2#writeContract
-
-TimingSwap HECO address:
-Factory: 0xdD2E27179876E2477622447d51E1faf536C2Ea1D
-Router: 0x29aA51FC9D1C80D317556cf406cD00CF52a81563
-Timing Token: 0xE3a72D4DEF291B300f46A46215282405181a2301
-Timingguarder: 0x95Fd813DFE7E97301fba1736232Ee4D6A45f10d2
-Timing Token Transfer Ownership Hash:
-0x89b55d8b20e345ef8248ccfbf38c23b3e732032e7acba85158bd3f4714b844f0
-Factory Set Feeto Hash:
-0xe6f1cac0888a45c32f23b1d87ac33429acbc5708b4d5a2cda5229a30034e19d2
-START Blocknumber:
-Arg [0] : _factory (address): 0xdd2e27179876e2477622447d51e1faf536c2ea1d
-Arg [1] : _WETH (address): 0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f
-Arg [2] : _TIMING (address): 0xe3a72d4def291b300f46a46215282405181a2301
-Arg [3] : _startBlock (uint256): 8822000
-Arg [4] : _lastblock (uint256): 8822000
-Arg [5] : _TIMINGPerBlock (uint256): 2025462962962000000
-Function getback:
-https://hecoinfo.com/address/0x95Fd813DFE7E97301fba1736232Ee4D6A45f10d2#writeContract
-
+0xe27dc3140b7877f69db929e924e39b11b8dbf54376219a31e0f60ce25c5ec51b
